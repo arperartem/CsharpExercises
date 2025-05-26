@@ -2,10 +2,8 @@
 
 internal static class LeetCodeRemoveDuplicatesFromSortedArray
 {
-    internal static void Start()
+    internal static void Start(int[] inputData)
     {
-        var inputData = new[] { 0,0,1,1,1,2,2,3,3,4 };
-        
         var emptyIndex = 0;
         for (var i = 0; i < inputData.Length; i++)
         {

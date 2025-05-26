@@ -2,10 +2,8 @@
 
 public class LeetCode_ContainsDuplicate
 {
-    internal static void Start()
+    internal static void Start(int[] nums)
     {
-        var nums = new[] { 1,2,3,4 };
-
         var result = false;
         var hashSet = new HashSet<int>();
         

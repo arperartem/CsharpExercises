@@ -10,9 +10,8 @@ public class LeetCode_RotateArray
 
     [-1,-100,3,99]
     [ 3, 99,-1,-100]*/
-    internal static void Start()
+    internal static void Start(int[] nums)
     {
-        var nums = new[] { 1,2,3,4,5,6,7 };
         var k = 3;
         
         if(nums.Length <= 1)
