@@ -1,4 +1,4 @@
-﻿namespace CsharpExercises;
+﻿namespace CsharpExercises.LeetCode;
 
 internal static class LeetCode_BestTimeToBuyAndSellStock2
 {

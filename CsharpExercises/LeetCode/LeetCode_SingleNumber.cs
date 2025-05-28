@@ -1,4 +1,4 @@
-﻿namespace CsharpExercises;
+﻿namespace CsharpExercises.LeetCode;
 
 public class LeetCode_SingleNumber
 {
