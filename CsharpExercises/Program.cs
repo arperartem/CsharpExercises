@@ -12,5 +12,8 @@ internal class Program
         //LeetCode_SingleNumber.Start([2,2,1 ]);
         //LeetCode_ReverseString.Start(["H", "a", "n", "n", "a", "h"]);
         //Console.WriteLine(LeetCode_ReverseInteger.Reverse(-123));
+        //Console.WriteLine(LeetCode_FirstUniqueCharacter.Find("leetcode"));
+        //LeetCode_TwoSum.TwoSumV2([3,2,4], 6);
+        new FindMatch().Find();
     }
 }
